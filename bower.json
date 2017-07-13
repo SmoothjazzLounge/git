@@ -14,5 +14,8 @@
   ],
   "authors": [
     "Stepan Bojko <stepich_boi@mail.ru>"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
