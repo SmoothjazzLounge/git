@@ -1,33 +1,32 @@
 <?php
-echo "TEST";
+echo "Изменил ветку feature";
+
 ?>
-<!doctype html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport"
-              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Git раззработка</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
 
-        <h1>Группа разработчиков</h1>
-        <p>Евгений</p>
-        <p>Степан</p>
-
-        <h2>Для Евгения</h2>
-        <ul>
-            <li>1 Список для Евгения</li>
-            <li>2 Список для Евгения</li>
-        </ul>
-        <h2>Для Степана</h2>
-        <ul>
-            <li>1 Список для Степан</li>
-            <li>2 Список для Степан</li>
-        </ul>
-         <script src="bower_components/jquery/dist/jquery.js"></script>
-
-    </body>
-</html>
+<!---->
+<table>
+    <thead>
+    <tr>
+        <th>1 Колонка</th>
+        <th>2 Колонка</th>
+        <th>3 Колонка</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>1 колонка</td>
+        <td>2 колонка</td>
+        <td>3 колонка</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    </tbody>
+</table>
