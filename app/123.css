@@ -1,0 +1,12 @@
+h1{
+    font-size:32;
+    font-style: oblique;
+    padding-left: 50%;
+    color: darkred;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    color: blue;
+}
